@@ -4,7 +4,7 @@
 
 ```mermaid
 flowchart LR
-    User --> Entry[Entry point]
-    Entry --> Logic[Application logic]
-    Logic --> Output[Output]
+    Student --> Notes[TypeScript study notes]
+    Notes --> Examples[Code examples]
+    Notes --> Exercises[Practice exercises]
 ```
